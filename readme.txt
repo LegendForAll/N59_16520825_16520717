@@ -1,6 +1,8 @@
 TEN DE TAI: Ung dung ho tro hoc tot mon hoa hoc
 NHOM: 59
 
+GIANG VIEN HUONG DAN: THS. PHAN NGUYET MINH
+
 SV1
 TEN: HO THAI NGOC
 MSSV: 16520825
